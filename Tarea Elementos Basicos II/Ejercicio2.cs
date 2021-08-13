@@ -12,6 +12,7 @@ namespace Tarea_Elementos_Basicos_II
         {
             //escribir un ciclo que permita capturar los valores
             //almacenar en el arreglo de numbers con un tamaño de 10
+            //Calcular e imprimir el promedio de los numeros almacenados en el array
 
             int[] nume = new int[10];
             int sumat = 0;
